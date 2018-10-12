@@ -1,0 +1,131 @@
+body {
+	margin: 0;
+}
+
+ .navbar-default {
+  background-color:transparent;
+  border-color:transparent;
+  background-image:none;
+  box-shadow:none;  
+    margin: 0;
+}
+
+.navbar li { 
+	color: #000 
+}
+
+.navbar a {
+	color: grey;
+}
+
+.navbar .button {
+	color: white;
+}
+
+.navbar img {
+	height: 30px;
+}
+
+
+.primsect {
+	background-image: url(images/bg.jpeg);
+	background-size: cover;
+	background-position: center;
+	background-position: 0 60%;
+	color: white;
+	text-align: center;
+}
+
+
+.headcont h1 {
+	font-size: 2.8em;
+	padding: 15px;
+}
+
+.butver {
+	background-color: green;
+	border: green;
+}
+
+.jumbotron .subti {
+	font-size: 15px;
+	padding: 12px;
+
+}
+
+.container {
+	text-align: center;
+}
+
+.secsect img {
+	width: 400px;
+	max-width: 100%;
+}
+
+.secsect h3 {
+	padding: 15px;
+	font-weight: bolder;
+}
+
+.secsect p {
+	font-size: 13px;
+}
+
+.tercsect {
+	background: #eee;
+	color: black;
+	border-top: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
+}
+
+.tercsect p {
+	font-size: 13px;
+}
+
+.tercsect h3 {
+	padding: 15px;
+	font-weight: bolder;
+}
+
+.btn {
+	margin: 5px;
+}
+
+.thumbnail {
+	border: none;
+	font-size: 13px;
+	text-align: left;
+}
+
+.cuartsect {
+	width: 800px;
+}
+
+.col-sm-6 p {
+	margin: 2px;
+}
+
+.col-sm-6 span {
+	font-weight: bolder;
+}
+
+.col-sm-6 a {
+	margin-top: 10px;
+}
+
+.quintsect {
+	background-color: black;
+	color: white;
+	height: 110px;
+	margin: 0;
+}
+
+.quintsect p {
+	padding: 0 0 0 50px;
+	font-size: 20px;
+	margin: 0;
+}
+
+.text {
+	width: 60%;
+}
